@@ -1,3 +1,1 @@
-from handlers import client
-from handlers import admin
-from handlers import other
+from keyboards.default_kb import kb_client
